@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CoronaTracker/static/css/main.8e1d144e.chunk.css",
-    "main.js": "/CoronaTracker/static/js/main.eeacd21d.chunk.js",
-    "main.js.map": "/CoronaTracker/static/js/main.eeacd21d.chunk.js.map",
-    "runtime-main.js": "/CoronaTracker/static/js/runtime-main.e98b620d.js",
-    "runtime-main.js.map": "/CoronaTracker/static/js/runtime-main.e98b620d.js.map",
-    "static/js/2.b7a3c886.chunk.js": "/CoronaTracker/static/js/2.b7a3c886.chunk.js",
-    "static/js/2.b7a3c886.chunk.js.map": "/CoronaTracker/static/js/2.b7a3c886.chunk.js.map",
-    "index.html": "/CoronaTracker/index.html",
-    "precache-manifest.d092f129cb6a801d1adf2d9423c2851e.js": "/CoronaTracker/precache-manifest.d092f129cb6a801d1adf2d9423c2851e.js",
-    "service-worker.js": "/CoronaTracker/service-worker.js",
-    "static/css/main.8e1d144e.chunk.css.map": "/CoronaTracker/static/css/main.8e1d144e.chunk.css.map",
-    "static/js/2.b7a3c886.chunk.js.LICENSE.txt": "/CoronaTracker/static/js/2.b7a3c886.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/CoronaTracker/static/media/image.d7265326.png"
+    "main.css": "/COVID-Dashboard/static/css/main.8e1d144e.chunk.css",
+    "main.js": "/COVID-Dashboard/static/js/main.eeacd21d.chunk.js",
+    "main.js.map": "/COVID-Dashboard/static/js/main.eeacd21d.chunk.js.map",
+    "runtime-main.js": "/COVID-Dashboard/static/js/runtime-main.bc46a5b2.js",
+    "runtime-main.js.map": "/COVID-Dashboard/static/js/runtime-main.bc46a5b2.js.map",
+    "static/js/2.19b42271.chunk.js": "/COVID-Dashboard/static/js/2.19b42271.chunk.js",
+    "static/js/2.19b42271.chunk.js.map": "/COVID-Dashboard/static/js/2.19b42271.chunk.js.map",
+    "index.html": "/COVID-Dashboard/index.html",
+    "precache-manifest.66797471af3bbaf8efe95ed97351cdd5.js": "/COVID-Dashboard/precache-manifest.66797471af3bbaf8efe95ed97351cdd5.js",
+    "service-worker.js": "/COVID-Dashboard/service-worker.js",
+    "static/css/main.8e1d144e.chunk.css.map": "/COVID-Dashboard/static/css/main.8e1d144e.chunk.css.map",
+    "static/js/2.19b42271.chunk.js.LICENSE.txt": "/COVID-Dashboard/static/js/2.19b42271.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/COVID-Dashboard/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e98b620d.js",
-    "static/js/2.b7a3c886.chunk.js",
+    "static/js/runtime-main.bc46a5b2.js",
+    "static/js/2.19b42271.chunk.js",
     "static/css/main.8e1d144e.chunk.css",
     "static/js/main.eeacd21d.chunk.js"
   ]
